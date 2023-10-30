@@ -1,5 +1,5 @@
 <h1>Description</h1>
-One of the starting projects. Using basic useState() and updating the state onClick.
+Using basic useState() and updating the state onClick.
 <br />
 
 
@@ -13,4 +13,7 @@ One of the starting projects. Using basic useState() and updating the state onCl
 - <b>npm install</b> 
 - <b>npm start</b>
 
+<h2>Project screenshot</h2>
+
+<img src="https://i.imgur.com/oLnkwwC.png" height="80%" width="80%" alt="project layout"/>
 
